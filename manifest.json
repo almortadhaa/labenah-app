@@ -1,0 +1,13 @@
+{
+  "background_color": "#23f705",
+  "dir": "rtl",
+  "display": "standalone",
+  "name": "حاسبة مساحة اللبنة اليمنية",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "حاسبة اللبنة اليمنية",
+  "start_url": "/labenah-app",
+  "theme_color": "#08faf9",
+  "description": "تطبيق يقوم بحساب مساحة اللبنة اليمنية (صنعاني-هدوي-ذماري-عمراني) وسيقوم التطبيق بالتفقيط التقليدي (باللبنة والذراع)",
+  "lang": "ar"
+}
